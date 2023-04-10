@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/accessLambda": {
+      "name": "/accessLambda",
+      "lambdaFunction": "myLambdaFunction",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
